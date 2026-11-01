@@ -1,7 +1,7 @@
 {
   "version": "2.4.2",
   "patch_url": "https://github.com/Ushatemediation/security-camera-updates/releases/download/v2.4.2/patch_v2.4.2.zip",
-  "sha256": "e966a5f4f0365c82107c4a0c5061b4e695656adf4e455c49a0aeb803880c1776",
+  "sha256": "4bff3aa506ab27df11cd21b977cafab5feb1c14a20f1f3df47bdfa6cc95be7ef",
   "exe": "HomeCamera.exe",
-  "notes": "Умная LED-подсветка: Auto при чужом захвате камеры, Off когда свободна"
+  "notes": "HomeCamera 2.4.2"
 }
