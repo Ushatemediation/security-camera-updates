@@ -1,7 +1,7 @@
 {
-  "version": "2.4.2",
-  "patch_url": "https://github.com/Ushatemediation/security-camera-updates/releases/download/v2.4.2/patch_v2.4.2.zip",
-  "sha256": "4bff3aa506ab27df11cd21b977cafab5feb1c14a20f1f3df47bdfa6cc95be7ef",
+  "version": "2.4.3",
+  "patch_url": "https://github.com/Ushatemediation/security-camera-updates/releases/download/v2.4.3/patch_v2.4.3.zip",
+  "sha256": "1ca238610cf5c08aac23384d0b2de28de14233e0163af41f2cf33437cf96f113",
   "exe": "HomeCamera.exe",
-  "notes": "HomeCamera 2.4.2"
+  "notes": "HomeCamera 2.4.3: LED C922 и переименованный exe"
 }
