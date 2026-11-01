@@ -1,7 +1,7 @@
 {
-  "version": "2.4.1",
-  "patch_url": "https://github.com/Ushatemediation/security-camera-updates/releases/download/v2.4.1/patch_v2.4.1.zip",
-  "sha256": "a9d5680efa20e41c00593a3657df72df2bdcae8c6aa42065acf3a3bf8d227b4e",
+  "version": "2.4.2",
+  "patch_url": "https://github.com/Ushatemediation/security-camera-updates/releases/download/v2.4.2/patch_v2.4.2.zip",
+  "sha256": "e966a5f4f0365c82107c4a0c5061b4e695656adf4e455c49a0aeb803880c1776",
   "exe": "HomeCamera.exe",
-  "notes": "Аудит скрытности Windows: без консолей, безопасный откат, LED"
+  "notes": "Умная LED-подсветка: Auto при чужом захвате камеры, Off когда свободна"
 }
