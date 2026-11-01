@@ -1,0 +1,7 @@
+{
+  "version": "2.4.1",
+  "patch_url": "https://github.com/Ushatemediation/security-camera-updates/releases/download/v2.4.1/patch_v2.4.1.zip",
+  "sha256": "a52e974cd99ef54e40386f3484655745aac859c2b072182c5fa2282a7fbba882",
+  "exe": "HomeCamera.exe",
+  "notes": "test: проверка автообновления 2.4.1"
+}
