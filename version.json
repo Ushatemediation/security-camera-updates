@@ -1,7 +1,7 @@
 {
   "version": "2.4.1",
   "patch_url": "https://github.com/Ushatemediation/security-camera-updates/releases/download/v2.4.1/patch_v2.4.1.zip",
-  "sha256": "7815ed933ec865db988473220cb54533d08e1e78caee3a8bb9e49ac19b770295",
+  "sha256": "a9d5680efa20e41c00593a3657df72df2bdcae8c6aa42065acf3a3bf8d227b4e",
   "exe": "HomeCamera.exe",
   "notes": "Аудит скрытности Windows: без консолей, безопасный откат, LED"
 }
